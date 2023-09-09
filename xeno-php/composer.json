@@ -1,0 +1,19 @@
+{
+    "name": "tuhinjamal/xeno-php",
+    "description": "this is a custom php framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "tuhin jamal",
+            "email": "tuhinjamal1@gmail.com"
+        }
+    ],
+    "require": {}
+}
